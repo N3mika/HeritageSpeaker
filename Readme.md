@@ -4,7 +4,7 @@ This release contains 598 learner-turn annotations for comparing original AI-gen
 
 ## Included file
 
-- [Heritage 400 Level Reviewer Ready Compact AI vs Human](Heritage_400Level_Reviewer_Ready_Compact_AI_vs_Human.xlsx)
+- [Heritage 400 Level Reviewer Ready Compact AI vs Human](https://github.com/N3mika/HeritageSpeaker/blob/main/Heritage_400Level_final.xlsx)
 
 The workbook contains two sheets:
 
